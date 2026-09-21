@@ -1,5 +1,7 @@
 # CyberHit
 
+**Play CyberHit in your browser:** https://bitabigdelu.itch.io/cyberhit
+
 A 3D beat-'em-up built in Unity. Move a martial artist through a side-scrolling arena, chain combo attacks, and fight off waves of enemies that close in and attack.
 
 <img width="661" height="340" alt="Screenshot 2026-09-21 at 12 46 12 PM" src="https://github.com/user-attachments/assets/da92f4b2-b76a-4282-8277-2a47754cbbec" />
